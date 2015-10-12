@@ -5,4 +5,4 @@ Node.js presentation.
 
 See the various directories for code examples.
 
-For the presentation notes, see `presentation.md`.
+For the presentation notes, see [presentation.md](presentation.md).
