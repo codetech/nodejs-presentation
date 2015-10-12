@@ -45,4 +45,4 @@
 - Nearly 200,000 software packages
 - [npmjs.com](npmjs.com)
 - Recursive dependency structure
-- See [glob/](glob/)
+- See [packaging/](packaging/)
