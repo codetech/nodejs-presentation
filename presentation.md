@@ -43,6 +43,6 @@
 # NPM
 - Package (library) manager for Node
 - Nearly 200,000 software packages
-- [npmjs.com](npmjs.com)
+- [npmjs.com](http://npmjs.com)
 - Recursive dependency structure
 - See [packaging/](packaging/)
